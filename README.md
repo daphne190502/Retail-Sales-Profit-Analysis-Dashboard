@@ -45,7 +45,3 @@ An interactive **Power BI dashboard** to analyze **retail sales performance, pro
 - Provided actionable recommendations to **boost profitability**.
 
 
-
-
-## 📄 License
-This project is for **educational and portfolio purposes**.
